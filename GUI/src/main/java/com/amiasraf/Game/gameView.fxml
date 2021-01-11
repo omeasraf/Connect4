@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.shape.Circle?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="717.0" minHeight="-Infinity" minWidth="717.0" prefHeight="741.0" prefWidth="717.0" styleClass="body" stylesheets="@Connect4.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.amiasraf.Game.controller">
+    <children>
+      <GridPane fx:id="gridPane" layoutX="7.0" layoutY="46.0" prefHeight="631.0" prefWidth="711.0">
+      </GridPane>
+        <Button fx:id="btnReset" layoutX="22.0" layoutY="693.0" mnemonicParsing="false" onAction="#onReset" styleClass="btnReset" text="Reset" textFill="WHITE" />
+        <Label fx:id="lblTitle" layoutX="95.0" layoutY="698.0" prefHeight="17.0" prefWidth="500.0" text="Connect 4" textFill="WHITE" />
+      <Label layoutX="494.0" layoutY="698.0" text="Turn:" textFill="WHITE" />
+      <Circle fx:id="playerCircle" fill="#faff03" layoutX="547.0" layoutY="707.0" radius="8.0" stroke="BLACK" strokeType="INSIDE" />
+    </children>
+</AnchorPane>

@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=client-to-http-2.20.jar -DgroupId=com.jbbwebsolutions.http -DartifactId=httpToJson -Dversion=2.20 -Dpackaging=jar

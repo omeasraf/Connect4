@@ -1,0 +1,20 @@
+
+.body{
+   -fx-stroke: #F55266;
+   -fx-fill: #F55266;
+   -fx-background-color: #F55266;
+}
+.cell {
+    -fx-stroke: #F55266;
+    -fx-fill: #F55266;
+}
+.gridPane{
+   -fx-background-color: #F55266;
+}
+
+.btnReset{
+    -fx-background-color: black;
+    -fx-color: white;
+}
+
+
