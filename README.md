@@ -6,10 +6,11 @@ This is a simple Connect4 Game made using Java and JavaFX. This game uses a webs
 
 Connect4 uses a number of open source projects to work properly:
 
-* [Java](https://www.java.com/en/) - The #1 programming language and development platform
-* [JavaFX](https://openjfx.io/) - A software platform for creating and delivering desktop applications
-* [GSON](https://github.com/google/gson) - Java library that can be used to convert Java Objects into their JSON representation
-* [Maven](https://maven.apache.org/) - Software project management and comprehension tool
+* [Java](https://www.java.com/en/) - The #1 programming language and development platform.
+* [JavaFX](https://openjfx.io/) - A software platform for creating and delivering desktop applications.
+* [GSON](https://github.com/google/gson) - Java library that can be used to convert Java Objects into their JSON representation.
+* [Maven](https://maven.apache.org/) - Software project management and comprehension tool.
+* [Spring Framework](https://spring.io/) - Provides a comprehensive programming and configuration model for modern Java-based enterprise applications - on any kind of deployment platform.
 
 ## Installation
 
