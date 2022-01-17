@@ -6,7 +6,7 @@
 <?import javafx.scene.layout.GridPane?>
 <?import javafx.scene.shape.Circle?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="717.0" minHeight="-Infinity" minWidth="717.0" prefHeight="741.0" prefWidth="717.0" styleClass="body" stylesheets="@Connect4.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.amiasraf.Game.controller">
+<AnchorPane maxHeight="-Infinity" maxWidth="717.0" minHeight="-Infinity" minWidth="717.0" prefHeight="741.0" prefWidth="717.0" styleClass="body" stylesheets="@Connect4.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.omeasraf.Game.controller">
     <children>
       <GridPane fx:id="gridPane" layoutX="7.0" layoutY="46.0" prefHeight="631.0" prefWidth="711.0">
       </GridPane>

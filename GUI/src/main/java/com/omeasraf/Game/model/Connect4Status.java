@@ -1,4 +1,4 @@
-package com.amiasraf.Game.model;
+package com.omeasraf.Game.model;
 
 import java.util.Arrays;
 

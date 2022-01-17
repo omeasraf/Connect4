@@ -1,7 +1,6 @@
-package com.amiasraf.Game;
+package com.omeasraf.Game;
 
-import com.amiasraf.Game.model.Connect4Status;
-import com.google.gson.reflect.TypeToken;
+import com.omeasraf.Game.model.Connect4Status;
 import com.jbbwebsolutions.http.utility.URLUtility;
 import javafx.animation.TranslateTransition;
 import javafx.beans.property.SimpleObjectProperty;
@@ -15,16 +14,10 @@ import javafx.scene.shape.Circle;
 import javafx.scene.shape.Path;
 import javafx.scene.shape.Rectangle;
 import javafx.scene.shape.Shape;
-import javafx.scene.text.Font;
-import javafx.scene.text.FontPosture;
-import javafx.scene.text.FontWeight;
-import javafx.scene.text.Text;
 import javafx.util.Duration;
 
-import java.lang.reflect.Type;
 import java.net.URL;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.ResourceBundle;
 

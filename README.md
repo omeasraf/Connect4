@@ -25,3 +25,8 @@ Install the required IDE to start the project, I recommend using [IntelliJ IDEA]
 	> Copy the lib directory of JavaFX and edit the configuration setting of the GUI project and replace the JavaFX directory with the one you just copied and then run the project
 - Open WebService project in a new window of IntelliJ IDEA
 	> Make sure to navigate to the "Required Packages" directory first and install "client-to-http" package before trying to run the project. Make sure to maven reload the project before trying to run it.
+
+## Gameplay
+
+![Gameplay](/game.gif)
+

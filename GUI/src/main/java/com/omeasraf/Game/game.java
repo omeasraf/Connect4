@@ -1,4 +1,4 @@
-package com.amiasraf.Game;
+package com.omeasraf.Game;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -18,7 +18,7 @@ public class game extends Application {
         @Override
         public void start(Stage stage) throws Exception {
             Parent root = FXMLLoader.load(getClass().getResource("gameView.fxml"));
-            stage.setTitle("Connect 4 - Ami Asraf");
+            stage.setTitle("Connect 4");
 
             Scene scene = new Scene (root);
             stage.setScene(scene);

@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b5420b-d631-4c31-bd21-33c1ec2e52e8" name="Default Changelist" comment="" />
+    <list default="true" id="50b5420b-d631-4c31-bd21-33c1ec2e52e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebService/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amiasraf/._Game" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/omeasraf/._Game" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amiasraf/Game/Connect4.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/omeasraf/Game/Connect4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amiasraf/Game/controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/omeasraf/Game/controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amiasraf/Game/game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/omeasraf/Game/game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amiasraf/Game/gameView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/omeasraf/Game/gameView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amiasraf/Game/model/Connect4Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/omeasraf/Game/model/Connect4Status.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/asraf-ami-connect4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebService/.idea/WebService.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,14 +46,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebService" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39310345" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -53,9 +74,19 @@
       </method>
     </configuration>
     <configuration name="game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.amiasraf.Game.game" />
+      <option name="MAIN_CLASS_NAME" value="com.omeasraf.Game.game" />
       <module name="GUI" />
-      <option name="VM_PARAMETERS" value="--module-path C:\developer\javafx-sdk-13.0.2\lib --add-modules=javafx.controls,javafx.fxml" />
+      <option name="VM_PARAMETERS" value="--module-path $USER_HOME$/Development/javafx-sdk/lib --add-modules=javafx.controls,javafx.fxml" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
